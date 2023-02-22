@@ -46,7 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContactDetails.cs" />
+    <Compile Include="DictionaryExample.cs" />
     <Compile Include="ExceptionExample.cs" />
+    <Compile Include="CustomGenericContactDetails.cs" />
+    <Compile Include="GenericExample.cs" />
+    <Compile Include="GenericMethodExample.cs" />
+    <Compile Include="NonGenericExample.cs" />
     <Compile Include="ProductException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -8,7 +8,7 @@ namespace EClerx.CSharp.Day3
 {
     public class ExceptionExample
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //int x = int.MaxValue;
             //int y = int.MaxValue;     
@@ -51,6 +51,7 @@ namespace EClerx.CSharp.Day3
             {
                 Console.WriteLine(ex.Message);
             }
+
             Console.Read();
         }
     }
