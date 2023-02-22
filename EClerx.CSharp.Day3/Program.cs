@@ -5,7 +5,7 @@ namespace EClerx.CSharp.Day3
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //DomesticSeller domestic = new DomesticSeller(1, "ABC inc", "Jaipur", false);
             //Console.Write("Enter the Destination :");
